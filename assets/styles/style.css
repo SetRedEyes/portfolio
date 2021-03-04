@@ -83,7 +83,8 @@ a:hover {
   margin: 15px 0;
 }
 .contact_block > ul > li {
-  max-width: 260px;
+  max-width: 300px;
+  margin: 5px;
 }
 .contact_block > ul > li > a {
   display: flex;
